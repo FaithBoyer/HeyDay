@@ -1,5 +1,5 @@
-#!bin/bash
+#!/bin/bash
 
-echo -n "Enter your name>"
+echo -n "Enter your name:>"
 read name
-echo "hey" $name
+echo "Hey" $name ", war eagle!"
