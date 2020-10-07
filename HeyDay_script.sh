@@ -2,4 +2,4 @@
 
 echo -n "Enter your name:>"
 read name
-echo "Hey" $name ", war eagle!"
+echo "Hey" $name", war eagle!"
